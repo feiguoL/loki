@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.6.4](https://github.com/grafana/loki/compare/v3.6.3...v3.6.4) (2026-01-14)
+
+
+### Bug Fixes
+
+* **deps:** [Release 3.6.x] Update dskit to resolve Otel conflict ([#20368](https://github.com/grafana/loki/issues/20368)) ([fb05a36](https://github.com/grafana/loki/commit/fb05a368466e6b16ac70105f69e460871c0aa42e))
+
 ## [3.6.3](https://github.com/grafana/loki/compare/v3.6.2...v3.6.3) (2025-12-11)
 
 
